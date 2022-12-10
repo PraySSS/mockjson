@@ -1,5 +1,4 @@
-{
-    "users": [{
+[{
   "id": 1,
   "first_name": "Cody",
   "last_name": "Pleasance",
@@ -280,4 +279,3 @@
   "date": "10/22/2022",
   "time": "8:36"
 }]
-}
